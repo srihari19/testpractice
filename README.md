@@ -1,0 +1,2 @@
+# testpractice
+basic git comands 
